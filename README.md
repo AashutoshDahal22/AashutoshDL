@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Dahal</h1>
 <h3 align="center">A passionate and curious developer from Nepal, crafting ideas into code.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashutoshdahal22&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshdahal22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AashutoshDahal22&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshdahal22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshdahal22" alt="aashutoshdahal22" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AashutoshDahal22)](https://github.com/AashutoshDahal22/github-profile-trophy)
 
 - 🌱 I’m currently working in **React,Node,Django,Augmented Reality**
 
@@ -23,3 +23,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AashutoshDahal22&theme=taiga)](https://git.io/streak-stats)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+![](https://raw.githubusercontent.com/AashutoshDahal22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AashutoshDahal22/github-stats/master/generated/overview.svg#gh-light-mode-only)
