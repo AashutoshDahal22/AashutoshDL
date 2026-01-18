@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aashutosh Dahal</h1>
-<h3 align="center">A passionate and curious developer from Nepal, crafting ideas into code.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AashutoshDahal22&label=Profile%20views&color=0e75b6&style=flat" alt="aashutoshdahal22" /> </p>
+# 💫 About Me:
+I am currently working on server side systems in Java, Python and JavaScript. I also code client side applications.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AashutoshDahal22)](https://github.com/AashutoshDahal22/github-profile-trophy)
 
-- 🌱 I’m currently working in **React,Node,Django,Augmented Reality**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashu_dahal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh-dahal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AashutoshDL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashutoshdahal22@gmail.com) 
 
-- 📫 How to reach me **aashudahal11@gmail.com**  
-- My personal portfolio **https://aashutoshdl.github.io/portfolio/**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AashutoshDahal22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AashutoshDahal22&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AashutoshDahal22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aashu_dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashu_dahal" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AashutoshDahal22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashutoshdahal22&show_icons=true&locale=en&layout=compact" alt="aashutoshdahal22" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AashutoshDahal22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashutoshdahal22&show_icons=true&locale=en" alt="aashutoshdahal22" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=AashutoshDahal22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AashutoshDahal22&theme=taiga)](https://git.io/streak-stats)
-
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-![](https://raw.githubusercontent.com/AashutoshDahal22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AashutoshDahal22/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
